@@ -1,6 +1,6 @@
 <?php
 include 'Batiment.php';
-class Immeuble {
+class Immeuble extends Batiment{
   
 public function getascenseur ()
 {
